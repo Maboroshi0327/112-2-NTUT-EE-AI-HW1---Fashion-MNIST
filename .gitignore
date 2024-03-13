@@ -1,0 +1,10 @@
+.vscode/
+__pycache__/
+Fashion-MNIST/
+venv/
+model_architecture.keras
+model_weights.keras
+pred_results.csv
+Accuracy.png
+after.png
+before.png
