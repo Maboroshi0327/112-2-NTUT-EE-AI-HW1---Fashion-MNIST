@@ -1,6 +1,5 @@
 .vscode/
 __pycache__/
-Fashion-MNIST/
 venv/
 model_architecture.keras
 model_weights.keras
